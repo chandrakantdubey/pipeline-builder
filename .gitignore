@@ -1,5 +1,6 @@
 # Frontend (React)
 frontend/node_modules/
+node_modules/
 frontend/.pnp
 frontend/.pnp.js
 frontend/coverage/
